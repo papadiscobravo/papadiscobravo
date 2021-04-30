@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @papadiscobravo
-- 👀 I’m interested in data.
-- 🌱 I’m currently learning Python and SQL.
+- 👀 I’m interested in data visualizations.
+- 🌱 I’m currently learning Python, JavaScript, and SQL.
 - 💞️ I’m looking to collaborate on learning.
 - 📫 How to reach me: papadiscobravo@gmail.com
 
